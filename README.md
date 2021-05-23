@@ -2,3 +2,4 @@
 -	Libgit2sharp
 -	Newtonsoft.json
 -	WindowsApiCodePack
+- WPF

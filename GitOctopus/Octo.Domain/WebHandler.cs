@@ -6,7 +6,7 @@ using System.Net;
 using System.Threading;
 using System.IO;
 
-
+/* Webhandler is an adapted version from https://www.codeproject.com/Tips/485182/Create-a-local-server-in-Csharp */
 namespace Octo.Domain
 {
     public class WebHandler
